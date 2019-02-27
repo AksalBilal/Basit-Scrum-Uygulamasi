@@ -1,0 +1,50 @@
+C:\Users\bilal\source\repos\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\bin\Debug\Yazılım Yapımı Proje 2.exe.config
+C:\Users\bilal\source\repos\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\bin\Debug\Yazılım Yapımı Proje 2.exe
+C:\Users\bilal\source\repos\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\bin\Debug\Yazılım Yapımı Proje 2.pdb
+C:\Users\bilal\source\repos\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım_Yapımı_Proje_2.Properties.Resources.resources
+C:\Users\bilal\source\repos\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.csproj.GenerateResource.cache
+C:\Users\bilal\source\repos\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.exe
+C:\Users\bilal\source\repos\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.pdb
+C:\Users\bilal\source\repos\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım_Yapımı_Proje_2.FrmScrum.resources
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\bin\Debug\Yazılım Yapımı Proje 2.exe.config
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\bin\Debug\Yazılım Yapımı Proje 2.exe
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\bin\Debug\Yazılım Yapımı Proje 2.pdb
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.csprojAssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım_Yapımı_Proje_2.FrmScrum.resources
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım_Yapımı_Proje_2.Properties.Resources.resources
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.csproj.GenerateResource.cache
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.exe
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.pdb
+E:\Yazılım Yapımı Proje 2  yedek\Yazılım Yapımı Proje 2\bin\Debug\Yazılım Yapımı Proje 2.exe.config
+E:\Yazılım Yapımı Proje 2  yedek\Yazılım Yapımı Proje 2\bin\Debug\Yazılım Yapımı Proje 2.exe
+E:\Yazılım Yapımı Proje 2  yedek\Yazılım Yapımı Proje 2\bin\Debug\Yazılım Yapımı Proje 2.pdb
+E:\Yazılım Yapımı Proje 2  yedek\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.csprojAssemblyReference.cache
+E:\Yazılım Yapımı Proje 2  yedek\Yazılım Yapımı Proje 2\obj\Debug\Yazılım_Yapımı_Proje_2.FrmScrum.resources
+E:\Yazılım Yapımı Proje 2  yedek\Yazılım Yapımı Proje 2\obj\Debug\Yazılım_Yapımı_Proje_2.Properties.Resources.resources
+E:\Yazılım Yapımı Proje 2  yedek\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.csproj.GenerateResource.cache
+E:\Yazılım Yapımı Proje 2  yedek\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.csproj.CoreCompileInputs.cache
+E:\Yazılım Yapımı Proje 2  yedek\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.exe
+E:\Yazılım Yapımı Proje 2  yedek\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.pdb
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2-okumasız\Yazılım Yapımı Proje 2\bin\Debug\Yazılım Yapımı Proje 2.exe.config
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2-okumasız\Yazılım Yapımı Proje 2\bin\Debug\Yazılım Yapımı Proje 2.exe
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2-okumasız\Yazılım Yapımı Proje 2\bin\Debug\Yazılım Yapımı Proje 2.pdb
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2-okumasız\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.csprojAssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2-okumasız\Yazılım Yapımı Proje 2\obj\Debug\Yazılım_Yapımı_Proje_2.FrmScrum.resources
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2-okumasız\Yazılım Yapımı Proje 2\obj\Debug\Yazılım_Yapımı_Proje_2.Properties.Resources.resources
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2-okumasız\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.csproj.GenerateResource.cache
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2-okumasız\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2-okumasız\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.exe
+C:\Users\bilal\OneDrive\Masaüstü\Yazılım Yapımı Proje 2-okumasız\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.pdb
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\bin\Debug\Yazılım Yapımı Proje 2.exe.config
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\bin\Debug\Yazılım Yapımı Proje 2.exe
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\bin\Debug\Yazılım Yapımı Proje 2.pdb
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.csprojAssemblyReference.cache
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım_Yapımı_Proje_2.FrmScrum.resources
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım_Yapımı_Proje_2.Properties.Resources.resources
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.csproj.GenerateResource.cache
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.csproj.CoreCompileInputs.cache
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.exe
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Proje 2\Yazılım Yapımı Proje 2\obj\Debug\Yazılım Yapımı Proje 2.pdb
